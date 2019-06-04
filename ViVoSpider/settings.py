@@ -24,7 +24,7 @@ ROBOTSTXT_OBEY = False
 MONGO_IP = "localhost"  # mongodb ip
 MONGO_PORT = 27017  # mongodb 端口
 MONGO_DB_NAME = "f_vivo"   # mongodb 数据库名称
-MONGO_URL = "mongodb://admin:admin@139.217.99.231:22022"    # mongodb URL   存储数据主要是根据它来定数据库位置的
+MONGO_URL = "mongodb://admin:admin@IP:Port"    # mongodb URL   存储数据主要是根据它来定数据库位置的
 RESULT_COLLECTIONS_NAME = "vivo_result"  # 表名
 
 
